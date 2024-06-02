@@ -6,21 +6,21 @@ Czy pamiętasz może takie gry na automatach albo na starych konsolach z cartrid
 
 ![screenshot_1](./screenshot_1.png)
 
-![screenshot_2](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/b73c0d7d-b1c8-4e73-acfd-8f66d25dc622)
+![screenshot_2](./screenshot_2.png)
 
-![screenshot_3](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/6c7e0504-fd32-412d-a82c-c194d6195941)
+![screenshot_3](./screenshot_3.png)
 
-![screenshot_4](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/bdc3fb8d-161f-466f-80c6-2d8aed19c386)
+![screenshot_4](./screenshot_4.png)
 
-![screenshot_5](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/3ce771a6-2e5d-4040-b3dc-ebe15d3dc0bc)
+![screenshot_5](./screenshot_5.png)
 
-![screenshot_7](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/f118dba8-179e-4b74-b9e3-944f25eaaa8c)
+![screenshot_7](./screenshot_7.png)
 
-![screenshot_9](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/a89dd61a-2f3a-443d-94cf-df37af17af91)
+![screenshot_9](./screenshot_9.png)
 
-![screenshot_6](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/67845b37-3362-44f9-93be-470a349a36cc)
+![screenshot_6](./screenshot_6.png)
 
-![screenshot_8](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/3514bac7-af0e-4429-a70d-f4a111d00a19)
+![screenshot_8](./screenshot_8.png)
 
 ## Instrukcja Obsługi📖
 
