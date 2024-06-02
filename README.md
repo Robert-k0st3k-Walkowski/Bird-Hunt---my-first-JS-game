@@ -4,7 +4,7 @@ Czy pamiętasz może takie gry na automatach albo na starych konsolach z cartrid
 
 ## Przykładowe zrzuty ekranu z gry📷
 
-![screenshot_1](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/b80354b9-6e93-46b8-8895-3aa0368a8250)
+![screenshot_1](./screenshot_1.png)
 
 ![screenshot_2](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/b73c0d7d-b1c8-4e73-acfd-8f66d25dc622)
 
