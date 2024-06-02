@@ -1,0 +1,136 @@
+canvas
+{
+    padding: 0;
+    border: 3px solid black;
+    margin: auto;
+    display: block;
+    background-image: url(background_canvas.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 110%;
+}
+
+body
+{
+    background-image: url(flying_birds_background_menu.gif);
+    background-repeat: no-repeat;
+    background-size: 100% 155%;
+}
+
+#menu
+{
+    border: 2px solid black;
+    border-radius: 20px;
+    width: fit-content;
+    height: fit-content;
+    margin: auto;
+    margin-top: 280px;
+    background-color: lightgreen;
+}
+
+#start
+{
+    border: 2px solid black;
+    border-radius: 10px;
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+    width: fit-content;
+    height: 50px;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    -webkit-text-stroke: 1px lightgreen;
+}
+
+#controls
+{
+    border: 2px solid black;
+    border-radius: 10px;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    width: fit-content;
+    height: 50px;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    -webkit-text-stroke: 1px lightgreen;
+}
+
+#back
+{
+    border: 2px solid black;
+    border-radius: 10px;
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 400px;
+    width: fit-content;
+    height: fit-content;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    -webkit-text-stroke: 1px lightgreen;
+}
+
+#start:hover
+{
+    background-color: greenyellow;
+    color: #ffffffe5;
+    -webkit-text-stroke: 1px black;
+}
+
+#controls:hover
+{
+    background-color: greenyellow;
+    color: #ffffffe5;
+    -webkit-text-stroke: 1px black;
+}
+
+#back:hover
+{
+    background-color: greenyellow;
+    color: #ffffffe5;
+    -webkit-text-stroke: 1px black;
+}
+
+#title
+{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 2px 2px 2px white;
+    text-align: center;
+    -webkit-text-stroke: 0.5px white;
+}
+
+#controlLeft
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    display: none;
+}
+
+#controlRight
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    display: none;
+}
+
+#controlSpace
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    display: none;
+}
