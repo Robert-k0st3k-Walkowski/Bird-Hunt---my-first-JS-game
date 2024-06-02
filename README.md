@@ -4,23 +4,23 @@ Czy pamiętasz może takie gry na automatach albo na starych konsolach z cartrid
 
 ## Przykładowe zrzuty ekranu z gry📷
 
-![screenshot_1](./screenshot_1.png)
+![screenshot_1](./screenshots/screenshot_1.png)
 
-![screenshot_2](./screenshot_2.png)
+![screenshot_2](./screenshots/screenshot_2.png)
 
-![screenshot_3](./screenshot_3.png)
+![screenshot_3](./screenshots/screenshot_3.png)
 
-![screenshot_4](./screenshot_4.png)
+![screenshot_4](./screenshots/screenshot_4.png)
 
-![screenshot_5](./screenshot_5.png)
+![screenshot_5](./screenshots/screenshot_5.png)
 
-![screenshot_7](./screenshot_7.png)
+![screenshot_7](./screenshots/screenshot_7.png)
 
-![screenshot_9](./screenshot_9.png)
+![screenshot_9](./screenshots/screenshot_9.png)
 
-![screenshot_6](./screenshot_6.png)
+![screenshot_6](./screenshots/screenshot_6.png)
 
-![screenshot_8](./screenshot_8.png)
+![screenshot_8](./screenshots/screenshot_8.png)
 
 ## Instrukcja Obsługi📖
 
